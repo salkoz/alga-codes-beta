@@ -1,0 +1,6 @@
+{
+  "name": "Alga.codes",
+  "description": "Educational ecosystem for UNT (ЕНТ Kazakhstan) preparation and interactive programming in Python & JavaScript.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
